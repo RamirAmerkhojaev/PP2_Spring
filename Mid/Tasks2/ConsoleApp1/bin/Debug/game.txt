@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Ramir</Name>
+  <Field>
+    <Height>17</Height>
+    <Width>70</Width>
+  </Field>
+  <Figures>
+    <Figure>
+      <Name>Name</Name>
+      <X>12</X>
+      <Y>56</Y>
+    </Figure>
+  </Figures>
+</Game>

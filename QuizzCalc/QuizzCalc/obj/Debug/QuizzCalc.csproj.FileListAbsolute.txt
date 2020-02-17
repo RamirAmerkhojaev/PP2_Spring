@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\QuizzCalc\QuizzCalc\bin\Debug\QuizzCalc.exe.config
+C:\Users\Dell\source\repos\QuizzCalc\QuizzCalc\bin\Debug\QuizzCalc.exe
+C:\Users\Dell\source\repos\QuizzCalc\QuizzCalc\bin\Debug\QuizzCalc.pdb
+C:\Users\Dell\source\repos\QuizzCalc\QuizzCalc\obj\Debug\QuizzCalc.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\QuizzCalc\QuizzCalc\obj\Debug\QuizzCalc.Form1.resources
+C:\Users\Dell\source\repos\QuizzCalc\QuizzCalc\obj\Debug\QuizzCalc.Properties.Resources.resources
+C:\Users\Dell\source\repos\QuizzCalc\QuizzCalc\obj\Debug\QuizzCalc.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\QuizzCalc\QuizzCalc\obj\Debug\QuizzCalc.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\QuizzCalc\QuizzCalc\obj\Debug\QuizzCalc.exe
+C:\Users\Dell\source\repos\QuizzCalc\QuizzCalc\obj\Debug\QuizzCalc.pdb
